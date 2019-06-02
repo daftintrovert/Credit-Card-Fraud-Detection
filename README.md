@@ -1,3 +1,3 @@
 # Credit-Card-Fraud-Detection
 
-A kaggle Competition..
+A kaggle Competition.
